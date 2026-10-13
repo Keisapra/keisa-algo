@@ -1,0 +1,16 @@
+# input
+username = input("Masukkan Username")
+password = input("Masukkan Password")
+nama = input("Masukkan Nama")
+kelas = input("Masukkan Kelas")
+prodi = input("Masukkan Prodi")
+email = input("Masukkan Email")
+nohp = input("Masukkan nohp")
+# output
+print("Username anda adalah", username)
+print("Password anda adalah", password)
+print("Nama anda adalah", nama)
+print("Kelas anda adalah", kelas)
+print("Prodi anda adalah", prodi)
+print("Email anda adalah", email)
+print("nohp anda adalah", nohp)
